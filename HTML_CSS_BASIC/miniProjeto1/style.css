@@ -1,0 +1,15 @@
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+    font-family: MontSerrant;
+}
+
+strong {
+    color: #22D4FD;
+    
+}
+
+span {
+    background-color: #22D4FD;
+    color: #F6F6F6;
+}
