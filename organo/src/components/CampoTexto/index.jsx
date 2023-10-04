@@ -1,4 +1,4 @@
-import "./CampoTexto.css"
+import "./CampoTexto.css";
 
 const CampoTexto = (props) => {
     const placeholderTemplate = `${props.placeholder}...`;
